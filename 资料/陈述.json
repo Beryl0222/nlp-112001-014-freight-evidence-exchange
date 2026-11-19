@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s1",
+    "submittedBy": "货主",
+    "requestedFact": "铁路交接",
+    "text": "e3 引的签名足以证明第二段铁路接货。"
+  },
+  {
+    "id": "s2",
+    "submittedBy": "仓方",
+    "requestedFact": "仓库交接",
+    "text": "原函 e1 只能作库房证据。"
+  },
+  {
+    "id": "s3",
+    "submittedBy": "车方",
+    "requestedFact": "货批身份",
+    "text": "请补件说明最后一站邮件说的是 X8 还是 X9。"
+  }
+]

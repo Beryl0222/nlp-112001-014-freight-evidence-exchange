@@ -1,0 +1,50 @@
+[
+  {
+    "id": "e1",
+    "party": "仓方",
+    "language": "zh",
+    "sourceLink": "原函",
+    "access": "共享摘录",
+    "text": "第二段签名仅确认货交库房，铁路承运方未接货。参照封存联系人后附说明。"
+  },
+  {
+    "id": "e2",
+    "party": "车方",
+    "language": "en",
+    "sourceLink": "转发 e1",
+    "access": "共享摘录",
+    "text": "Warehouse confirmed a signature. We interpret that as rail custody."
+  },
+  {
+    "id": "e3",
+    "party": "货主",
+    "language": "zh",
+    "sourceLink": "引用 e2",
+    "access": "仅主管",
+    "text": "“confirmed a signature”就是铁路交割。内部报价不供交换。"
+  },
+  {
+    "id": "e4",
+    "party": "车方",
+    "language": "en",
+    "sourceLink": "原函",
+    "access": "共享摘录",
+    "text": "We received cargo at the final station only, if this refers to lot X9."
+  },
+  {
+    "id": "e5",
+    "party": "仓方",
+    "language": "zh",
+    "sourceLink": "原函纠正",
+    "access": "共享摘录",
+    "text": "第一批是 X8，箱单上写成 X9 的那车走第三段，与前函签名所指的第二段不同。"
+  },
+  {
+    "id": "e6",
+    "party": "仓方",
+    "language": "zh",
+    "sourceLink": "原附件",
+    "access": "仅主管",
+    "text": "库房签收日期见密封备注，报价与交接日期不可分公开。"
+  }
+]

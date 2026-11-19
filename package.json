@@ -1,0 +1,14 @@
+{
+  "name": "freight-evidence-exchange",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "联运材料交换登记",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
