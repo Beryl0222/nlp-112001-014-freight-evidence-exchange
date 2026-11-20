@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "node --test",
-    "materials": "node materials.js"
+    "materials": "node materials.js",
+    "exchange": "node ledger.js"
   }
 }
